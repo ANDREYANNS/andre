@@ -329,5 +329,6 @@ class User extends MY_Controller
     public function testFunction()
     {
         return "test function";
+        // <!--- bisa --->
     }
 }
